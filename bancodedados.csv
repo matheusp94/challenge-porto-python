@@ -1,0 +1,101 @@
+﻿id;Nome do Veiculo;Tipo de Veiculo;Guincho Adequado;Quantidade de Eixos;Comprimento Maximo do Veiculo;Altura do Veiculo;Largura do Veiculo;Capacidade Maxima de Transporte do Veiculo
+1;Volvo FH16;Caminhao de Carga;Guincho Pesado Nao Padrao;3 ou 4 eixos;Ate 12 metros;Cerca de 4 metros;Aproximadamente 2,5 metros;Ate 40 toneladas
+2;Caterpillar 320D;Escavadeira;Pesado com Plataforma Hidraulica Munck;Esteira;Variavel;Variavel;Variavel;Depende do modelo especifico
+3;Mercedes-Benz Actros;Caminhao de Carga;Guincho Pesado Nao Padrao;3 ou 4 eixos;Ate 13 metros;Cerca de 4 metros;Aproximadamente 2,5 metros;Ate 40 toneladas
+4;Liebherr LTM 11200-9.1;Guindaste Movel;Pesado com Torre e Lanca;9 eixos;Variavel (com lanca estendida, pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Cerca de 3 metros;Ate 1.200 toneladas
+5;Komatsu D575A;Trator de Esteira;Pesado com Plataforma Hidraulica Munck;Esteira;Cerca de 11 metros;Cerca de 4 metros;Aproximadamente 5 metros;Ate 150 toneladas
+6;Kenworth W990;Caminhao de Carga;Guincho Pesado Nao Padrao;4 ou 6 eixos;Ate 14 metros;Cerca de 4 metros;Aproximadamente 2,6;Ate 70 toneladas
+7;CAT 797F;Caminhao de Mineracao;Pesado com Quinta Roda e Bandeja;8 eixos;Aproximadamente 15 metros;Cerca de 7 metros;Aproximadamente 9 metros;Ate 400 toneladas
+8;Hitachi ZX870LC-6;Escavadeira;Pesado com Plataforma Hidraulica;Esteira;Variavel;Variavel;Variavel;Depende do modelo especifico
+9;P&H 4100XPC;Escavadeira de Mineracao;Pesado com Plataforma Hidraulica Munck;Esteira;Variavel;Variavel;Variavel;Depende do modelo especifico
+10;Peterbilt 579;Caminhao de Carga;Guincho Pesado Nao Padrao;2, 3 ou 4 eixos;Ate 12 metros;Cerca de 4 metros;Aproximadamente 2,6 metros;Ate 40 toneladas
+11;CAT 789D;Caminhao de Mineracao;Pesado com Quinta Roda e Bandeja;8 eixos;Aproximadamente 14 metros;Cerca de 6 metros;Aproximadamente 8 metros;Ate 180 toneladas
+12;Terex AC 1000;Guindaste Movel;Pesado com Torre e Lanca;8 eixos;Variavel (com lanca estendida, pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Cerca de 3 metros;Ate 1000 toneladas
+13;John Deere 944K;Carregadeira de Rodas;Pesado com Plataforma Hidraulica;2 eixos;Variavel;Variavel;Variavel;Depende do modelo especifico
+14;MAN TGS;Caminhao de Carga;Guincho Pesado Nao Padrao;2 a 5 eixos;Ate 12 metros;Cerca de 4 metros;Aproximadamente 2,5 metros;Ate 40 toneladas
+15;Komatsu 930E-5;Caminhao de Mineracao;Pesado com Quinta Roda e Bandeja;8 eixos;Aproximadamente 15 metros;Cerca de 6 metros;Aproximadamente 7 metros;Ate 300 toneladas
+16;Liebherr LR 1300 SX;Guindaste Rastreado;Pesado com Torre e Lanca;Esteira;Variavel (com lanca estendida,  pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Variavel (dependendo da configuracao da lanca);Ate 300 toneladas
+17;CAT 773G;Caminhao de Mineracao;Pesado com Quinta Roda e Bandeja;3 eixos;Aproximadamente 9 metros;Cerca de 4 metros;Aproximadamente 4 metros;Ate 60 toneladas
+18;Terex CC 8800-1;Guindaste de Esteira;Pesado com Torre e Lanca;Esteira;Variavel (com lanca estendida,  pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Variavel (dependendo da configuracao da lanca);Ate 1.600 toneladas
+19;Komatsu 475A-5;Trator de Esteira;Pesado com Plataforma Hidraulica Munck;Esteira;Cerca de 11 metros;Cerca de 4 metros;Aproximadamente 5 metros;Ate 150 toneladas
+20;Freightliner Cascadia;Caminhao de Carga;Guincho Pesado Nao Padrao;2 a 6 eixos;Ate 14 metros;Cerca de 4 metros;Aproximadamente 2,6 metros;Ate 60 toneladas
+21;CAT 966M;Pa Carregadeira de Rodas;Pesado com Plataforma Hidraulica;2 eixos;Variavel;Variavel;Variavel;Depende do modelo especifico
+22;Kenworth T880;Caminhao de Carga;Guincho Pesado Nao Padrao;4 ou 6 eixos;Ate 14 metros;Cerca de 4 metros;Aproximadamente 2,6 metros;Ate 70 toneladas
+23;Komatsu PC4000;Escavadeira de Mineracao;Pesado com Plataforma Hidraulica Munck;Esteira;Variavel;Variavel;Variavel;Depende do modelo especifico
+24;Volvo A60H;Caminhao Articulado;Pesado com Quinta Roda e Bandeja;3 eixos;Aproximadamente 11 metros;Cerca de 4 metros;Aproximadamente 3,5 metros;Ate 55 toneladas
+25;Liebherr LTM 1400-7.1;Guindaste Movel;Pesado com Torre e Lanca;7 eixos;Variavel (com lanca estendida, pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Cerca de 3 metros;Ate 400 toneladas
+26;Terex MT 6300AC;Caminhao de Mineracao;Pesado com Quinta Roda e Bandeja;6 eixos;Aproximadamente 15 metros;Cerca de 7 metros;Aproximadamente 8 metros;Ate 400 toneladas
+27;Komatsu D375A-8;Trator de Esteira;Pesado com Plataforma Hidraulica Munck;Esteira;Cerca de 11 metros;Cerca de 4 metros;Aproximadamente 5 metros;Ate 150 toneladas
+28;P&H 4100XPC;Escavadeira de Mineracao;Pesado com Plataforma Hidraulica Munck;Esteira;Variavel;Variavel;Variavel;Depende do modelo especifico
+29;Kenworth W990;Caminhao de Carga;Guincho Pesado Nao Padrao;4 ou 6 eixos;Ate 14 metros;Cerca de 4 metros;Aproximadamente 2,6 metros;Ate 70 toneladas
+30;Komatsu 830E-5;Caminhao de Mineracao;Pesado com Quinta Roda e Bandeja;8 eixos;Aproximadamente 15 metros;Cerca de 6 metros;Aproximadamente 7 metros;Ate 300 toneladas
+31;Terex CC 8800-1;Guindaste de Esteira;Pesado com Torre e Lanca;Esteira;Variavel (com lanca estendida, pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Variavel (dependendo da configuracao da lanca);Ate 1.600 toneladas
+32;Komatsu D475A-8;Trator de Esteira;Pesado com Plataforma Hidraulica Munck;Esteira;Cerca de 11 metros;Cerca de 4 metros;Aproximadamente 5 metros;Ate 150 toneladas
+33;Freightliner Cascadia;Caminhao de Carga;Guincho Pesado Nao Padrao;2 a 6 eixos;Ate 14 metros;Cerca de 4 metros;Aproximadamente 2,6 metros;Ate 60 toneladas
+34;Komatsu WA1200-6;Carregadeira de Rodas;Pesado com Plataforma Hidraulica;2 eixos;Variavel;Variavel;Variavel;Depende do modelo especifico
+35;Volvo FH16;Caminhao de Carga;Guincho Pesado Nao Padrao;3 ou 4 eixos;Ate 12 metros;Cerca de 4 metros;Aproximadamente 2,5 metros;Ate 40 toneladas
+36;CAT 797F;Caminhao de Mineracao;Pesado com Quinta Roda e Bandeja;8 eixos;Aproximadamente 14 metros;Cerca de 6 metros;Aproximadamente 8 metros;Ate 180 toneladas
+37;Terex AC 1000;Guindaste Movel;Pesado com Torre e Lanca;8 eixos;Variavel (com lanca estendida,pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Cerca de 3 metros;Ate 1000 toneladas
+38;Komatsu PC3000-6;Escavadeira de Mineracao;Pesado com Plataforma Hidraulica Munck;Esteira;Variavel;Variavel;Variavel;Depende do modelo especifico
+39;Kenworth W990;Caminhao de Carga;Guincho Pesado Nao Padrao;4 ou 6 eixos;Ate 14 metros;Cerca de 4 metros;Aproximadamente 2,6 metros;Ate 70 toneladas
+40;Komatsu 960E-2;Caminhao de Mineracao;Pesado com Quinta Roda e Bandeja;6 eixos;Aproximadamente 15 metros;Cerca de 6 metros;Aproximadamente ;Ate 300 toneladas
+41;Terex RH400;Escavadeira de Mineracao;Pesado com Plataforma Hidraulica Munck;Esteira;Variavel;Variavel;Variavel;Depende do modelo especifico
+42;Kenworth T680;Caminhao de Carga;Guincho Pesado Nao Padrao;2, 3 ou 4 eixos;Ate 12 metros;Cerca de 4 metros;Aproximadamente 2,6 metros;Ate 40 toneladas
+43;Liebherr LTM 11200-9.1;Guindaste Movel;Pesado com Torre e Lanca;9 eixos;Variavel (com lanca estendida, pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Cerca de 3 metros;Ate 1.200 toneladas
+44;Komatsu D575A;Trator de Esteira;Pesado com Plataforma Hidraulica Munck;Esteira;Cerca de 11 metros;Cerca de 4 metros;Aproximadamente 5 metros;Ate 150 toneladas
+45;Kenworth W990;Caminhao de Carga;Guincho Pesado Nao Padrao;4 ou 6 eixos;Ate 14 metros;Cerca de 4 metros;Aproximadamente 2,6 metros;Ate 70 toneladas
+46;CAT 797F;Caminhao de Mineracao;Pesado com Quinta Roda e Bandeja;8 eixos;Aproximadamente 14 metros;Cerca de 6 metros;Aproximadamente 8 metros;Ate 180 toneladas
+47;Terex AC 1000;Guindaste Movel;Pesado com Torre e Lanca;8 eixos;Variavel (com lanca estendida, pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Cerca de 3 metros;Ate 1000 toneladas
+48;Komatsu D375A-8;Trator de Esteira;Pesado com Plataforma Hidraulica Munck;Esteira;Cerca de 11 metros;Cerca de 4 metros;Aproximadamente 5 metros;Ate 150 toneladas
+49;Freightliner Cascadia;Caminhao de Carga;Guincho Pesado Nao Padrao;2 a 6 eixos;Ate 14 metros;Cerca de 4 metros;Aproximadamente 2,6 metros;Ate 60 toneladas
+50;Komatsu 830E-5;Caminhao de Mineracao;Pesado com Quinta Roda e Bandeja;8 eixos;Aproximadamente 15 metros;Cerca de 6 metros;Aproximadamente 7 metros;Ate 300 toneladas
+51;Terex CC 8800-1;Guindaste de Esteira;Pesado com Torre e Lanca;Esteira;Variavel (com lanca estendida, pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Variavel (dependendo da configuracao da lanca);Ate 1.600 toneladas
+52;Komatsu D475A-8;Trator de Esteira;Pesado com Plataforma Hidraulica Munck;Esteira;Cerca de 11 metros;Cerca de 4 metros;Aproximadamente 5 metros;Ate 150 toneladas
+53;Freightliner Cascadia;Caminhao de Carga;Guincho Pesado Nao Padrao;2 a 6 eixos;Ate 14 metros;Cerca de 4 metros;Aproximadamente 2,6 metros;Ate 60 toneladas
+54;Komatsu WA1200-6;Carregadeira de Rodas;Pesado com Plataforma Hidraulica;2 eixos;Variavel;Variavel;Variavel;Depende do modelo especifico
+55;Volvo FH16;Caminhao de Carga;Guincho Pesado Nao Padrao;3 ou 4 eixos;Ate 12 metros;Cerca de 4 metros;Aproximadamente 2,5 metros;Ate 40 toneladas
+56;CAT 797F;Caminhao de Mineracao;Pesado com Quinta Roda e Bandeja;8 eixos;Aproximadamente 14 metros;Cerca de 6 metros;Aproximadamente 8 metros;Ate 180 toneladas
+57;Terex AC 1000;Guindaste Movel;Pesado com Torre e Lanca;8 eixos;Variavel (com lanca estendida, pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Cerca de 3 metros;Ate 1000 toneladas
+58;Komatsu PC3000-6;Escavadeira de Mineracao;Pesado com Plataforma Hidraulica Munck;Esteira;Variavel;Variavel;Variavel;Depende do modelo especifico
+59;Kenworth W990;Caminhao de Carga;Guincho Pesado Nao Padrao;4 ou 6 eixos;Ate 14 metros;Cerca de 4 metros;Aproximadamente 2,6 metros;Ate 70 toneladas
+60;Komatsu 960E-2;Caminhao de Mineracao;Pesado com Quinta Roda e Bandeja;6 eixos;Aproximadamente 15 metros;Cerca de 6 metros;Aproximadamente 7 metros;Ate 300 toneladas
+61;Caterpillar 988K;Carregadeira de Rodas;Pesado com Plataforma Hidraulica Munck;2 eixos;Variavel;Variavel;Variavel;Depende do modelo especifico
+62;Kenworth T270;Caminhao de Medio Porte;Guincho Pesado Nao Padrao;2 ou 3 eixos;Ate 8 metros;Cerca de 3 metros;Aproximadamente 2,4 metros;Ate 10 toneladas
+63;Terex Demag AC 700;Guindaste Movel;Pesado com Torre e Lanca;9 eixos;Variavel (com lanca estendida, pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Cerca de 3 metros;Ate 700 toneladas
+64;Volvo EC750E;Escavadeira de Mineracao;Pesado com Plataforma Hidraulica Munck;Esteira;Variavel;Variavel;Variavel;Depende do modelo especifico
+65;Volvo VNL 760;Caminhao de Carga;Guincho Pesado Nao Padrao;4 a 6 eixos;Ate 14 metros;Cerca de 4 metros;Aproximadamente 2,6 metros;Ate 70 toneladas
+66;Liebherr LR 13000;Guindaste de Esteira;Pesado com Torre e Lanca;Esteira;Variavel (com lanca estendida, pode chegar a mais de 200 metros);Variavel (dependendo da configuracao da lanca);Variavel (dependendo da configuracao da lanca);Ate 3.000 toneladas
+67;John Deere 944K;Carregadeira de Rodas;Pesado com Plataforma Hidraulica;2 eixos;Variavel;Variavel;Variavel;Depende do modelo especifico
+68;P&H 4100XPB;Escavadeira de Mineracao;Pesado com Plataforma Hidraulica Munck;Esteira;Variavel;Variavel;Variavel;Depende do modelo especifico
+69;Volvo VNL 860;Caminhao de Carga;Guincho Pesado Nao Padrao;4 a 6 eixos;Ate 14 metros;Cerca de 4 metros;Aproximadamente 2,6 metros;Ate 70 toneladas
+70;CAT 6015B;Escavadeira de Mineracao;Pesado com Plataforma Hidraulica Munck;Esteira;Variavel;Variavel;Variavel;Depende do modelo especifico
+71;Kenworth T880;Caminhao de Carga;Guincho Pesado Nao Padrao;4 a 6 eixos;Ate 14 metros;Cerca de 4 metros;Aproximadamente 2,6 metros;Ate 70 toneladas
+72;Terex CC 2800-1;Guindaste de Esteira;Pesado com Torre e Lanca;Esteira;Variavel (com lanca estendida, pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Variavel (dependendo da configuracao da lanca);Ate 1.200 toneladas
+73;Komatsu D475A-8;Trator de Esteira;Pesado com Plataforma Hidraulica Munck;Esteira;Cerca de 11 metros;Cerca de 4 metros;Aproximadamente 5 metros;Ate 150 toneladas
+74;Komatsu D375A-8;Trator de Esteira;Pesado com Plataforma Hidraulica Munck;Esteira;Cerca de 11 metros;Cerca de 4 metros;Aproximadamente 5 metros;Ate 150 toneladas
+75;Freightliner M2 106;Caminhao de Medio Porte;Guincho Pesado Nao Padrao;2 a 4 eixos;Ate 10 metros;Cerca de 3 metros;Aproximadamente 2,4 metros;Ate 15 toneladas
+76;Terex Demag CC 3800-1;Guindaste de Esteira;Pesado com Torre e Lanca;Esteira;Variavel (com lanca estendida, pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Variavel (dependendo da configuracao da lanca);Ate 1.000 toneladas
+77;Komatsu 930E-5;Caminhao de Mineracao;Pesado com Quinta Roda e Bandeja;6 eixos;Aproximadamente 15 metros;Cerca de 6 metros;Aproximadamente 7 metros;Ate 320 toneladas
+78;Grove GMK7550;Guindaste Movel;Pesado com Torre e Lanca;9 eixos;Variavel (com lanca estendida,  pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Cerca de 3 metros;Ate 750 toneladas
+79;Volvo EC950E;Escavadeira de Mineracao;Pesado com Plataforma Hidraulica Munck;Esteira;Variavel;Variavel;Variavel;Depende do modelo especifico
+80;Kenworth T440;Caminhao de Medio Porte;Guincho Pesado Nao Padrao;2 a 3 eixos;Ate 9 metros;Cerca de 3 metros;Aproximadamente 2,4 metros;Ate 20 toneladas
+81;Caterpillar 988K;Carregadeira de Rodas;Pesado com Plataforma Hidraulica Munck;2 eixos;Variavel;Variavel;Variavel;Depende do modelo especifico
+82;Kenworth T270;Caminhao de Medio Porte;Guincho Pesado Nao Padrao;2 ou 3 eixos;Ate 8 metros;Cerca de 3 metros;Aproximadamente 2,4 metros;Ate 10 toneladas
+83;Terex Demag AC 700;Guindaste Movel;Pesado com Torre e Lanca;9 eixos;Variavel (com lanca estendida, pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Cerca de 3 metros;Ate 700 toneladas
+84;Volvo EC750E;Escavadeira de Mineracao;Pesado com Plataforma Hidraulica Munck;Esteira;Variavel;Variavel;Variavel;Depende do modelo especifico
+85;Volvo VNL 760;Caminhao de Carga;Guincho Pesado Nao Padrao;4 a 6 eixos;Ate 14 metros;Cerca de 4 metros;Aproximadamente 2,6 metros;Ate 70 toneladas
+86;Liebherr LR 13000;Guindaste de Esteira;Pesado com Torre e Lanca;Esteira;Variavel (com lanca estendida, pode chegar a mais de 200 metros);Variavel (dependendo da configuracao da lanca);Variavel (dependendo da configuracao da lanca);Ate 3.000 toneladas
+87;John Deere 944K;Carregadeira de Rodas;Pesado com Plataforma Hidraulica;2 eixos;Variavel;Variavel;Variavel;Depende do modelo especifico
+88;P&H 4100XPB;Escavadeira de Mineracao;Pesado com Plataforma Hidraulica Munck;Esteira;Variavel;Variavel;Variavel;Depende do modelo especifico
+89;Volvo VNL 860;Caminhao de Carga;Guincho Pesado Nao Padrao;4 a 6 eixos;Ate 14 metros;Cerca de 4 metros;Aproximadamente 2,6 metros;Ate 70 toneladas
+90;CAT 6015B;Escavadeira de Mineracao;Pesado com Plataforma Hidraulica Munck;Esteira;Variavel;Variavel;Variavel;Depende do modelo especifico
+91;Kenworth T880;Caminhao de Carga;Guincho Pesado Nao Padrao;4 a 6 eixos;Ate 14 metros;Cerca de 4 metros;Aproximadamente 2,6 metros;Ate 70 toneladas
+92;Terex CC 2800-1;Guindaste de Esteira;Pesado com Torre e Lanca;Esteira;Variavel (com lanca estendida, pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Variavel (dependendo da configuracao da lanca);Ate 1.200 toneladas
+93;Komatsu D475A-8;Trator de Esteira;Pesado com Plataforma Hidraulica Munck;Esteira;Cerca de 11 metros;Cerca de 4 metros;Aproximadamente 5 metros;Ate 150 toneladas
+94;Komatsu D375A-8;Trator de Esteira;Pesado com Plataforma Hidraulica Munck;Esteira;Cerca de 11 metros;Cerca de 4 metros;Aproximadamente 5 metros;Ate 150 toneladas
+95;Freightliner M2 106;Caminhao de Medio Porte;Guincho Pesado Nao Padrao;2 a 4 eixos;Ate 10 metros;Cerca de 3 metros;Aproximadamente 2,4 metros;Ate 15 toneladas
+96;Terex Demag CC 3800-1;Guindaste de Esteira;Pesado com Torre e Lanca;Esteira;Variavel (com lanca estendida,  pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Variavel (dependendo da configuracao da lanca);Ate 1.000 toneladas
+97;Komatsu 930E-5;Caminhao de Mineracao;Pesado com Quinta Roda e Bandeja;6 eixos;Aproximadamente 15 metros;Cerca de 6 metros;Aproximadamente 7 metros;Ate 320 toneladas
+98;Grove GMK7550;Guindaste Movel;Pesado com Torre e Lanca;9 eixos;Variavel (com lanca estendida, pode chegar a mais de 100 metros);Variavel (dependendo da configuracao da lanca);Cerca de 3 metros;Ate 750 toneladas
+99;Volvo EC950E;Escavadeira de Mineracao;Pesado com Plataforma Hidraulica Munck;Esteira;Variavel;Variavel;Variavel;Depende do modelo especifico
+100;Kenworth T440;Caminhao de Medio Porte;Guincho Pesado Nao Padrao;2 a 3 eixos;Ate 9 metros;Cerca de 3 metros;Aproximadamente 2,4 metros;Ate 20 toneladas
